@@ -53,9 +53,9 @@
   #navbar {
     visibility:hidden;
   }
-  .menu-icon {
-    display:block;
-  }
+  #navbar nav a.menu-icon {
+  display: none;
+  } 
   #logo h2 {
     visibility:hidden;
   }

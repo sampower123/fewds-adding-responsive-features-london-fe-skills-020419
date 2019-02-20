@@ -50,5 +50,8 @@
 }
 
 @media (max-width:700px) {
+  #navbar {
+    visibility:hidden;
+  }
   
 }

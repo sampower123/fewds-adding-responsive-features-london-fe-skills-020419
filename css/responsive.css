@@ -53,5 +53,7 @@
   #navbar {
     visibility:hidden;
   }
-  
+  title {
+    visibility:hidden;
+  }
 }

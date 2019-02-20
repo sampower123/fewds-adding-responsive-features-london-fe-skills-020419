@@ -53,6 +53,9 @@
   #navbar {
     visibility:hidden;
   }
+  #navbar nav a.menu-icon {
+    display:;
+  }
   title {
     visibility:hidden;
   }

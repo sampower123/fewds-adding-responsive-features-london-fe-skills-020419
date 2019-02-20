@@ -56,7 +56,7 @@
   .menu-icon {
     display:block;
   }
-  title {
+  #logo h1 {
     visibility:hidden;
   }
 }

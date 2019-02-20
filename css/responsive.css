@@ -9,6 +9,18 @@
   }
 }
 
-@media (min) {
-  
+@media (max-width:900px) {
+  body {
+    font-size:85%;
+  }
+  #logo h1 {
+    height:35px;
+    width:35px;
+  }
+  #social {
+    top:72px;
+  }
+  col-3 p {
+    
+  }
 }

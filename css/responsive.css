@@ -54,7 +54,7 @@
     visibility:hidden;
   }
   #navbar nav a.menu-icon {
-  display:inline;
+  display:block;
   } 
   #logo h2 {
     visibility:hidden;

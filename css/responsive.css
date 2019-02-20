@@ -54,7 +54,7 @@
     visibility:hidden;
   }
   .menu-icon {
-    display:inline;
+    display:block;
   }
   title {
     visibility:hidden;
